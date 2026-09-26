@@ -9,3 +9,5 @@ print(notas)
 
 notas.pop(0)
 print(notas)
+
+print(len(notas))
